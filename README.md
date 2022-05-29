@@ -10,3 +10,5 @@
 </a>
 
 I write code.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/660243670116728833)](https://discord.com/users/660243670116728833)
